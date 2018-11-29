@@ -1,0 +1,24 @@
+{
+  "name": "country-codes",
+  "version": "1.0.0",
+  "description": "nice lil lib to map countryCodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirvana-flame/countryCodes.git"
+  },
+  "keywords": [
+    "country",
+    "country_codes",
+    "2l-to-3l-country-code"
+  ],
+  "author": "nirvanaCodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nirvana-flame/countryCodes/issues"
+  },
+  "homepage": "https://github.com/nirvana-flame/countryCodes#readme"
+}
